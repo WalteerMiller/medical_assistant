@@ -15,10 +15,10 @@ class CreateDoctorsTable extends Migration
     {
         Schema::create('doctors', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('desc');
             $table->integer('clinic_id')->unsigned();
             $table->integer('user_id')->unsigned()->unique();
             $table->integer('special_id')->unsigned();
-
 
             $table->foreign('special_id')->on('specialties')
                 ->references('id')->onDelete('cascade');

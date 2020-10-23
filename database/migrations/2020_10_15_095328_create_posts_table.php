@@ -17,7 +17,9 @@ class CreatePostsTable extends Migration
             $table->increments('id');
             $table->integer('doctor_id')->unsigned()->nullable();
             $table->integer('user_id')->unsigned()->nullable();
-
+            $table->string('title');
+            $table->string('content');
+            $table->string('image_url')->nullable();
             $table->foreign('doctor_id')->references('id')
                 ->on('doctors')->onDelete('cascade');
             $table->foreign('user_id')->references('id')

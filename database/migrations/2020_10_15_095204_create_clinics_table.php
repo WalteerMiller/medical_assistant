@@ -15,7 +15,12 @@ class CreateClinicsTable extends Migration
     {
         Schema::create('clinics', function (Blueprint $table) {
             $table->increments('id');
-
+            $table->string('location');
+            $table->string('desc');
+            $table->boolean('status');
+            $table->integer('specialty_id')->unsigned();
+            $table->foreign('specialty_id')->on('specialties')
+                ->references('id')->onDelete('cascade');
             $table->timestamps();
         });
     }

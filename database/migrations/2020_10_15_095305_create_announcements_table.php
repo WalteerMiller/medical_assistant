@@ -16,10 +16,10 @@ class CreateAnnouncementsTable extends Migration
         Schema::create('announcements', function (Blueprint $table) {
             $table->increments('id');
             $table->string('title');
-            $table->string('describtion');
-            $table->time('from');
-            $table->time('to');
-            $table->string('img');
+            $table->string('desc');
+            $table->time('from_time');
+            $table->time('to_time');
+            $table->string('image_url');
             $table->integer('doctor_id')->unsigned()->nullable();
 
             $table->foreign('doctor_id')->references('id')

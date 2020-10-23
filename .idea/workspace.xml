@@ -1,15 +1,258 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d8f131-422f-4544-8f99-e4eefb775db4" name="Default Changelist" comment="" />
+    <list default="true" id="c3d8f131-422f-4544-8f99-e4eefb775db4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/dropdown-effects/fade-down.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/jquery.datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/medical-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/css/timetable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/fonts/Flaticon-1.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/back-to-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/banner-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/bg-beauty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/featured-news.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/image-widget.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/latest-post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/latest-post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/latest-post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-1-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-2-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-3-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-4-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-5-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/blog/post-6-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/body_procedure_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/breadcrumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/breast_procedure_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/cardiology_1000x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/cardiology_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/carousel/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/carousel/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/carousel/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/certificate-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/certificate-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/certificate-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/certificate-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/certificate-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/chief_doctor_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/color-scheme/l-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/contact_lenses_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/cosmetic_dentistry_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/dental_emergency_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/doctor-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/emergency_help_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/emergency_help_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/emergency_help_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/eye_correct_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/eye_exam_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/face_procedure_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/footer-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/footer-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/gallery/image-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/general_dentistry_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/head-of-clinic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hematology_1000x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hematology_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hero-1-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hero-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hero-12-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hero-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/hero-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/anesthetic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/braces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/broken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/calculus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/caries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/clean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/equipment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/icons/implant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/image-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/info-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/info-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/info-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/info-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/info-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/kids_dentistry_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/kids_eye_correct_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/laboratory_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/logo-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/medical_complex_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/mri_1000x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/mri_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/neurology_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/optometry-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/pediatrics_1000x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/pediatrics_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/pediatrics_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/post-author-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/post-author-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/post-author-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/post-author-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/prev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/quality_care_800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/rec_procedure_700x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/review-author-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/signature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/slider/slide-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/statistic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/tooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/video-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/video-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/video-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/x-ray_1000x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/images/x-ray_700x700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/appointment-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/changer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/comment-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/contact-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/hero-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.datetimepicker.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.scrollto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/styleswitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/timetable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/medService/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/user/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/user/static/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/user/static/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/user/static/helpInfoSection.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095102_create_specialties_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095203_create_specialties_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095204_create_clinics_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095204_create_clinics_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095232_create_doctors_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095232_create_doctors_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095305_create_announcements_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095305_create_announcements_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095328_create_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095328_create_posts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095352_create_comments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095352_create_comments_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095416_create_bookings_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095416_create_bookings_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_15_095446_create_schedules_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_15_095446_create_schedules_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -131,6 +374,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iuOgIJnqRIXSE5hxUA672UPEs4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,8 +384,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/medService" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\medical_assistant\public\assets\medService" />
+      <recent name="E:\medical_assistant" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -156,6 +409,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602754120957</updated>
       <workItem from="1602754122339" duration="3841000" />
+      <workItem from="1602761291475" duration="605000" />
+      <workItem from="1602793776807" duration="977000" />
+      <workItem from="1602855711092" duration="126000" />
+      <workItem from="1603176623934" duration="993000" />
+      <workItem from="1603350876444" duration="23000" />
+      <workItem from="1603487536453" duration="991000" />
+      <workItem from="1603488547952" duration="4120000" />
+      <workItem from="1603492775675" duration="17000" />
     </task>
     <servers />
   </component>
@@ -163,9 +424,53 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="187" key="#Notifications" timestamp="1603492791550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="187" key="#Notifications/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603492791550" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603350897164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.-115.1280.984@0.0.1366.728" timestamp="1603350897164" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602855835925" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603488536086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488536086" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603488536086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488536086" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603488536086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488536086" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603488536086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488536086" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1603488533472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488533472" />
+    <state x="430" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603488821512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1280.-144.1280.984@0.0.1366.728" timestamp="1603488821512" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1602754610255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602754610255" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/user/index.blade.php</url>
+          <line>745</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
